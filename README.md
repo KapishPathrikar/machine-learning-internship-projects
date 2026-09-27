@@ -1,4 +1,4 @@
-# Machine Learning Internship - Project Submissions
+# Artificial Intelligence Internship - Project Submissions
 
 This repository contains the completed Machine Learning internship projects for evaluation by the Academic Team at **Navio Tech Solution** ([info@naviotechsolution.com](mailto:info@naviotechsolution.com)).
 
